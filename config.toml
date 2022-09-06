@@ -1,6 +1,6 @@
 baseURL = 'https://qschwagle.github.io/'
 languageCode = 'en-us'
-title = "Quinton's Personal Blog "
+title = "Quinton's Personal Blog"
 theme = "hugo-PaperMod"
 
 [outputs]
@@ -13,7 +13,6 @@ ShowCodeCopyButtons = true
 [params.profileMode]
 enabled = true
 title = "Quinton Schwagle"
-subtitle = ""
 
 [[params.profileMode.buttons]]
 name = "Blog"
@@ -24,8 +23,12 @@ name = "Github"
 url = "https://github.com/qschwagle"
 
 [[params.socialIcons]]
-name = "github"
+name = "GitHub"
 url = "https://github.com/qschwagle"
+
+[[params.socialIcons]]
+name = "GitLab"
+url = "https://gitlab.com/qschwagle"
 
 [[params.socialIcons]]
 name = "LinkedIn"
@@ -50,4 +53,3 @@ identifier = "projects"
 name = "projects"
 url = "/projects"
 weight = 30
-
