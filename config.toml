@@ -16,7 +16,7 @@ title = "Quinton Schwagle"
 
 [[params.profileMode.buttons]]
 name = "Blog"
-url = "/posts"
+url = "/archives"
 
 [[params.profileMode.buttons]]
 name = "Github"
@@ -37,9 +37,9 @@ url = "https://www.linkedin.com/in/quinton-schwagle-0301431b3"
 [menu]
 
 [[menu.main]]
-identifier = "posts"
-name = "posts"
-url = "/posts/"
+identifier = "archive"
+name = "archive"
+url = "/archives/"
 weight = 10
 
 [[menu.main]]
