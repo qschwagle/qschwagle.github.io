@@ -1,7 +1,5 @@
 ---
 title: "Useful Links"
-date: 2022-12-01T22:33:42-05:00
-draft: false
 ---
 
 Here are some useful links that I personally like to have around beyond just bookmarks (which tend
