@@ -9,6 +9,7 @@ home = ['HTML', 'RSS', 'JSON']
 [params]
 ShowPostNavLinks = true
 ShowCodeCopyButtons = true
+ShowReadingTime = true
 
 [params.profileMode]
 enabled = true

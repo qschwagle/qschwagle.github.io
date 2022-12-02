@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+ShowReadingTime: false
 ---
 
 ## 2048 Clone 

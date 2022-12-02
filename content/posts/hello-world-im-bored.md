@@ -2,6 +2,7 @@
 title: "Hello World (I'm Bored)"
 date: 2022-12-02T00:31:12-05:00
 draft: false 
+tags: ["cpp", "java", "javascript", "typescript", "csharp"]
 ---
 
 ### C++

@@ -1,5 +1,6 @@
 ---
 title: "Useful Links"
+ShowReadingTime: false
 ---
 
 Here are some useful links that I personally like to have around beyond just bookmarks (which tend
