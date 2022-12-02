@@ -53,3 +53,9 @@ identifier = "projects"
 name = "projects"
 url = "/projects"
 weight = 30
+
+[[menu.main]]
+identifier = "useful-links"
+name = "useful-links"
+url = "useful-links"
+weight = 40
