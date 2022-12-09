@@ -10,7 +10,7 @@ to bury old links with new links) and personal notes.
 
 #### [Red Hat 9 Official Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9)
 
-Red Hat's official documentation on Red Hat 9 (released may 2022) 
+Red Hat's official documentation on Red Hat 9 (released May 2022) 
 
 #### [Rocky Linux](https://rockylinux.org/)
 
@@ -19,6 +19,10 @@ A successor to CentOS
 #### [Fedora Linux](https://getfedora.org/)
 
 Decently stable biyearly release linux distro upstream of red hat
+
+#### [Cockpit](https://cockpit-project.org/)
+
+Web-based Management system for linux
 
 ## Nginx Documentation
 
@@ -34,7 +38,20 @@ Free tls certificates
 
 Setting up tls certificates
 
+## Markdown
 
-#### [cockpit](https://cockpit-project.org/)
+#### [Markdown Guide (.org)](https://markdownguide.org)
 
-Web Management system for linux
+A helpful website on learning markdown and useful for referencing different versions of markdown
+
+### [Hugo (Static Site Generator)](https://gohugo.io/)
+
+Built on Go, hugo is an excellent static site generator
+
+## Notes (Knowledge Management)
+
+### [Obsidian](https://obsidian.md/)
+
+Execellent Proprietary Notes and Knowledge management based around markdown. The notes are written in 
+custom markdown. Free for single person use (non commercial and commercial). Paid for multiuser
+commercial purposes
