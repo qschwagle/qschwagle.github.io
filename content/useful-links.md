@@ -48,10 +48,14 @@ A helpful website on learning markdown and useful for referencing different vers
 
 Built on Go, hugo is an excellent static site generator
 
+#### [Hugo Content Management Documentation](https://gohugo.io/content-management/)
+
+Hugo Documentation
+
 ## Notes (Knowledge Management)
 
 ### [Obsidian](https://obsidian.md/)
 
-Execellent Proprietary Notes and Knowledge management based around markdown. The notes are written in 
+An execellent proprietary notes and knowledge management based around markdown. The notes are written in 
 custom markdown. Free for single person use (non commercial and commercial). Paid for multiuser
 commercial purposes
